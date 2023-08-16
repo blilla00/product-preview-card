@@ -164,4 +164,26 @@ button img {
     padding-right: .75rem;
 }
 
+@media only screen and (min-width: 32rem) {
+
+  main {
+    max-width: 45rem;
+  }
+
+  .product-card {
+    display: flex;
+  }
+
+  picture {
+    object-fit: cover;
+  }
+
+  image.container {
+    width: 40rem;
+  }
+
+  
+
+}
+
 
