@@ -97,7 +97,6 @@ body {
 
 main{
     max-width: 24rem;
-    border: 1px solid black;
     border-radius: .8rem;
     overflow: hidden;
 }
